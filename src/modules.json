@@ -1,0 +1,457 @@
+[
+ {
+  "code": "M00",
+  "app": "intro",
+  "num": "00",
+  "title": "Bienvenue dans Microsoft 365",
+  "desc": "Présentations, objectifs, parcours Word · Excel · PowerPoint, méthode et outils"
+ },
+ {
+  "code": "W01",
+  "app": "word",
+  "num": "W01",
+  "level": 1,
+  "id": "w01",
+  "title": "Premiers pas : l'interface, la saisie et l'enregistrement",
+  "desc": "Apprivoisez le ruban, saisissez et corrigez un texte proprement, puis enregistrez-le au bon format et au bon endroit.",
+  "lessons": [
+   "L'interface de Word 365",
+   "Saisir proprement : les marques de mise en forme",
+   "Sélectionner vite et bien",
+   "Enregistrer, exporter, retrouver une version"
+  ],
+  "labs": [
+   "doc: Lab 1 — La lettre de relance"
+  ]
+ },
+ {
+  "code": "W02",
+  "app": "word",
+  "num": "W02",
+  "level": 1,
+  "id": "w02",
+  "title": "Mise en forme des caractères, des paragraphes et des listes",
+  "desc": "Donnez à vos documents une allure professionnelle : polices, alignements, espacements, retraits et listes maîtrisés.",
+  "lessons": [
+   "Caractères : police, taille, attributs",
+   "Paragraphes : alignement, espacements, retraits",
+   "Listes à puces, numérotées et à plusieurs niveaux",
+   "Reproduire et effacer une mise en forme"
+  ],
+  "labs": [
+   "doc: Lab 1 — La note de service RH",
+   "keys: Lab 2 — Défi raccourcis de mise en forme"
+  ]
+ },
+ {
+  "code": "W03",
+  "app": "word",
+  "num": "W03",
+  "level": 2,
+  "id": "w03",
+  "title": "Styles, titres, navigation et table des matières",
+  "desc": "Les styles sont le super-pouvoir de Word : une structure propre, une navigation instantanée et une table des matières qui se met à jour seule.",
+  "lessons": [
+   "Pourquoi les styles changent tout",
+   "Modifier et créer des styles",
+   "Le volet de navigation",
+   "Table des matières et numérotation des titres"
+  ],
+  "labs": [
+   "doc: Lab 1 — Le rapport d'activité structuré"
+  ]
+ },
+ {
+  "code": "W04",
+  "app": "word",
+  "num": "W04",
+  "level": 2,
+  "id": "w04",
+  "title": "Tableaux, colonnes, sauts de page, en-têtes et pieds de page",
+  "desc": "Maîtrisez la mise en page : des tableaux propres, du texte sur plusieurs colonnes, des sauts maîtrisés et des en-têtes/pieds de page cohérents.",
+  "lessons": [
+   "Créer et remplir un tableau",
+   "Mettre en forme un tableau",
+   "Sauts de page, de section et colonnes",
+   "En-têtes, pieds de page et numéros de page"
+  ],
+  "labs": [
+   "doc: Lab 1 — Le catalogue de formations"
+  ]
+ },
+ {
+  "code": "W05",
+  "app": "word",
+  "num": "W05",
+  "level": 3,
+  "id": "w05",
+  "title": "Documents longs : sections, notes, légendes, renvois et index",
+  "desc": "Rapports, mémoires, manuels : les outils qui rendent un document de 100 pages fiable, navigable et facile à maintenir.",
+  "lessons": [
+   "Architecture d'un document long",
+   "Notes de bas de page et notes de fin",
+   "Légendes, renvois et table des illustrations",
+   "Index et liens hypertextes"
+  ],
+  "labs": [
+   "doc: Lab 1 — Le mémoire de conformité RGPD",
+   "steps: Lab 2 — Légendes, renvois et index dans le vrai Word"
+  ]
+ },
+ {
+  "code": "W06",
+  "app": "word",
+  "num": "W06",
+  "level": 3,
+  "id": "w06",
+  "title": "Révision et collaboration : commentaires, suivi des modifications, comparer, protéger",
+  "desc": "Relisez à plusieurs sans jamais perdre la trace de qui a changé quoi, puis verrouillez la version finale.",
+  "lessons": [
+   "Commentaires",
+   "Le suivi des modifications",
+   "Comparer et combiner des versions",
+   "Protéger et préparer la diffusion"
+  ],
+  "labs": [
+   "doc: Lab 1 — Relecture du contrat de prestation",
+   "steps: Lab 2 — Suivi, comparaison et protection dans le vrai Word"
+  ]
+ },
+ {
+  "code": "W07",
+  "app": "word",
+  "num": "W07",
+  "level": 4,
+  "id": "w07",
+  "title": "Publipostage : lettres, e-mails et étiquettes personnalisés",
+  "desc": "Générez en quelques minutes des centaines de courriers, e-mails ou étiquettes personnalisés à partir d'un fichier de données.",
+  "lessons": [
+   "Le principe et la source de données",
+   "Insérer les champs de fusion",
+   "Règles, filtres et tri",
+   "Terminer la fusion : documents, e-mails, étiquettes"
+  ],
+  "labs": [
+   "steps: Lab 1 — Campagne de relance des cotisations"
+  ]
+ },
+ {
+  "code": "W08",
+  "app": "word",
+  "num": "W08",
+  "level": 4,
+  "id": "w08",
+  "title": "Modèles, champs, contrôles de contenu, macros VBA et accessibilité",
+  "desc": "Industrialisez vos documents : modèles d'entreprise, formulaires à remplir, automatisation par macros et documents accessibles à tous.",
+  "lessons": [
+   "Modèles (.dotx) et Normal.dotm",
+   "Champs et contrôles de contenu",
+   "Macros VBA : enregistrer et écrire",
+   "Accessibilité : des documents pour tous"
+  ],
+  "labs": [
+   "doc: Lab 1 — Rendre accessible le livret d'accueil",
+   "steps: Lab 2 — Modèle de devis avec formulaire et macro"
+  ]
+ },
+ {
+  "code": "X01",
+  "app": "excel",
+  "num": "X01",
+  "level": 1,
+  "id": "x01",
+  "title": "Premiers pas : l'interface, la saisie et les premières formules",
+  "desc": "Apprivoiser le classeur, saisir proprement des données et écrire ses premiers calculs avec SOMME et MOYENNE.",
+  "lessons": [
+   "L'interface d'Excel 365",
+   "Saisir et corriger des données",
+   "Formats de nombre",
+   "Vos premières formules"
+  ],
+  "labs": [
+   "sheet: Lab 1 — Le budget du séminaire commercial",
+   "keys: Lab 2 — Défi clavier : saisir sans la souris"
+  ]
+ },
+ {
+  "code": "X02",
+  "app": "excel",
+  "num": "X02",
+  "level": 1,
+  "id": "x02",
+  "title": "Recopie, références relatives et absolues, mise en forme",
+  "desc": "Le secret des tableaux qui se calculent tout seuls : recopier une formule et figer ce qui doit l'être avec le $.",
+  "lessons": [
+   "La recopie de formules",
+   "Références relatives : le comportement par défaut",
+   "Références absolues et mixtes : le $ et la touche F4",
+   "Mettre en forme un tableau"
+  ],
+  "labs": [
+   "sheet: Lab 1 — La grille tarifaire des fournitures"
+  ]
+ },
+ {
+  "code": "X03",
+  "app": "excel",
+  "num": "X03",
+  "level": 2,
+  "id": "x03",
+  "title": "Fonctions logiques et statistiques conditionnelles",
+  "desc": "Faire décider Excel : SI, ET, OU pour les règles métier, NB.SI et SOMME.SI pour compter et totaliser, SIERREUR pour des tableaux propres.",
+  "lessons": [
+   "La fonction SI",
+   "Combiner les conditions : ET, OU, NON et SI imbriqués",
+   "Compter et additionner sous condition",
+   "Gérer les erreurs avec SIERREUR"
+  ],
+  "labs": [
+   "sheet: Lab 1 — Les primes de l'équipe commerciale"
+  ]
+ },
+ {
+  "code": "X04",
+  "app": "excel",
+  "num": "X04",
+  "level": 2,
+  "id": "x04",
+  "title": "Trier, filtrer, mettre en évidence : exploiter une liste de données",
+  "desc": "Transformer une liste brute en outil de pilotage : tri, filtres, mise en forme conditionnelle, tableaux structurés et volets figés.",
+  "lessons": [
+   "Trier les données",
+   "Filtrer",
+   "La mise en forme conditionnelle",
+   "Mettre sous forme de tableau",
+   "Figer les volets"
+  ],
+  "labs": [
+   "sheet: Lab 1 — L'inventaire de l'entrepôt informatique",
+   "keys: Lab 2 — Défi clavier : l'analyste pressé"
+  ]
+ },
+ {
+  "code": "X05",
+  "app": "excel",
+  "num": "X05",
+  "level": 3,
+  "id": "x05",
+  "title": "Fonctions de recherche, de texte et de date",
+  "desc": "Croiser des tableaux avec RECHERCHEV, RECHERCHEX et INDEX/EQUIV, puis nettoyer et assembler textes et dates comme un pro.",
+  "lessons": [
+   "RECHERCHEV",
+   "RECHERCHEX et INDEX/EQUIV",
+   "Nettoyer et assembler du texte",
+   "Calculer avec les dates"
+  ],
+  "labs": [
+   "sheet: Lab 1 — Enrichir le carnet de commandes",
+   "sheet: Lab 2 — Créer les comptes des collaborateurs"
+  ]
+ },
+ {
+  "code": "X06",
+  "app": "excel",
+  "num": "X06",
+  "level": 3,
+  "id": "x06",
+  "title": "Graphiques et tableaux croisés dynamiques",
+  "desc": "Faire parler les chiffres : choisir le bon graphique et synthétiser des milliers de lignes en trois clics avec un tableau croisé dynamique.",
+  "lessons": [
+   "Choisir le bon graphique",
+   "Créer et soigner un graphique",
+   "Le tableau croisé dynamique (TCD)",
+   "Paramétrer, actualiser et illustrer un TCD"
+  ],
+  "labs": [
+   "sheet: Lab 1 — Le reporting mensuel des ventes",
+   "sheet: Lab 2 — Analyser les ventes avec un TCD"
+  ]
+ },
+ {
+  "code": "X07",
+  "app": "excel",
+  "num": "X07",
+  "level": 4,
+  "id": "x07",
+  "title": "Fonctions multi-critères, SOMMEPROD et tableau de bord",
+  "desc": "Construire un tableau de bord piloté par un sélecteur : SOMME.SI.ENS, NB.SI.ENS, MAX.SI.ENS, SI.CONDITIONS et SOMMEPROD.",
+  "lessons": [
+   "Les fonctions .SI.ENS",
+   "SOMMEPROD : le couteau suisse",
+   "Classer par paliers : SI.CONDITIONS et recherche approchée",
+   "Concevoir un tableau de bord"
+  ],
+  "labs": [
+   "sheet: Lab 1 — Le tableau de bord commercial par région"
+  ]
+ },
+ {
+  "code": "X08",
+  "app": "excel",
+  "num": "X08",
+  "level": 4,
+  "id": "x08",
+  "title": "Automatiser : Power Query, matrices dynamiques et macros VBA",
+  "desc": "Ne plus jamais refaire à la main : importer et nettoyer avec Power Query, calculer avec FILTRE, UNIQUE et LET, automatiser avec une macro VBA.",
+  "lessons": [
+   "Power Query : importer et transformer",
+   "Les matrices dynamiques : FILTRE, UNIQUE, TRIER",
+   "LET et LAMBDA : des formules lisibles",
+   "Macros VBA : enregistrer, lire, modifier"
+  ],
+  "labs": [
+   "steps: Lab 1 — Industrialiser l'import des ventes avec Power Query et les matrices dynamiques",
+   "steps: Lab 2 — Votre première macro VBA : le rapport en un clic"
+  ]
+ },
+ {
+  "code": "P01",
+  "app": "ppt",
+  "num": "P01",
+  "level": 1,
+  "id": "p01",
+  "title": "Premiers pas : interface, diapositives et dispositions",
+  "desc": "Prendre ses repères dans PowerPoint 365 et construire un premier deck propre, diapositive par diapositive.",
+  "lessons": [
+   "L'interface de PowerPoint 365",
+   "Ajouter et organiser les diapositives",
+   "Les dispositions : la structure avant la décoration",
+   "Saisir du texte et gérer les niveaux de puces",
+   "Les modes d'affichage et le diaporama"
+  ],
+  "labs": [
+   "slides: Lab 1 — Le bilan de la boulangerie Martin",
+   "keys: Lab 2 — Réflexes clavier du débutant"
+  ]
+ },
+ {
+  "code": "P02",
+  "app": "ppt",
+  "num": "P02",
+  "level": 1,
+  "id": "p02",
+  "title": "Mettre en forme : thèmes, texte, formes et alignement",
+  "desc": "Donner une allure professionnelle et cohérente à un deck en quelques clics, sans « bricolage » diapo par diapo.",
+  "lessons": [
+   "Thèmes et variantes",
+   "Mettre en forme le texte",
+   "Formes, icônes et zones de texte",
+   "Aligner, répartir, reproduire"
+  ],
+  "labs": [
+   "slides: Lab 1 — Le flyer du Salon Talents RH"
+  ]
+ },
+ {
+  "code": "P03",
+  "app": "ppt",
+  "num": "P03",
+  "level": 2,
+  "id": "p03",
+  "title": "Structurer un message : storytelling, 1 idée par diapo, sections",
+  "desc": "Passer d'un catalogue de puces à une histoire claire qui mène le public jusqu'à une décision.",
+  "lessons": [
+   "Partir du message, pas des diapositives",
+   "Titres-messages et règle « une idée par diapo »",
+   "Organiser avec les sections",
+   "Ouvrir et conclure"
+  ],
+  "labs": [
+   "slides: Lab 1 — Le second quai de chargement"
+  ]
+ },
+ {
+  "code": "P04",
+  "app": "ppt",
+  "num": "P04",
+  "level": 2,
+  "id": "p04",
+  "title": "Animations et transitions maîtrisées",
+  "desc": "Utiliser le mouvement pour guider le regard, pas pour distraire : sobriété, ordre et déclencheurs.",
+  "lessons": [
+   "Transitions : une seule, discrète",
+   "Les 4 familles d'animation",
+   "Ordre, démarrage et volet Animation",
+   "Déclencheurs : l'interactivité simple"
+  ],
+  "labs": [
+   "slides: Lab 1 — Le processus de l'entrepôt"
+  ]
+ },
+ {
+  "code": "P05",
+  "app": "ppt",
+  "num": "P05",
+  "level": 3,
+  "id": "p05",
+  "title": "Masque des diapositives et modèles d'entreprise",
+  "desc": "Industrialiser la charte graphique : un masque bien construit, des dispositions sur mesure et un modèle .potx partagé.",
+  "lessons": [
+   "Comprendre le masque",
+   "Créer des dispositions sur mesure",
+   "Pied de page, numéros et logo",
+   "Enregistrer et diffuser un modèle .potx"
+  ],
+  "labs": [
+   "slides: Lab 1 — Remettre un deck dans la charte",
+   "steps: Lab 2 — Construire le modèle .potx de l'entreprise"
+  ]
+ },
+ {
+  "code": "P06",
+  "app": "ppt",
+  "num": "P06",
+  "level": 3,
+  "id": "p06",
+  "title": "Présenter : mode présentateur, notes, minutage et raccourcis",
+  "desc": "Être à l'aise le jour J : notes utiles, timing maîtrisé, navigation au clavier et réponses aux imprévus.",
+  "lessons": [
+   "Des notes qui aident vraiment",
+   "Le mode présentateur",
+   "Répéter et minuter",
+   "Piloter le diaporama au clavier"
+  ],
+  "labs": [
+   "slides: Lab 1 — Préparer l'intervention du séminaire",
+   "keys: Lab 2 — Pilote de diaporama"
+  ]
+ },
+ {
+  "code": "P07",
+  "app": "ppt",
+  "num": "P07",
+  "level": 4,
+  "id": "p07",
+  "title": "Design avancé : Morphose, Zoom, grilles et data-viz",
+  "desc": "Les techniques des designers de présentation : mouvement fluide avec Morphose, navigation non linéaire, mise en page sur grille et graphiques qui parlent.",
+  "lessons": [
+   "La transition Morphose",
+   "Zoom : la navigation non linéaire",
+   "Grilles et hiérarchie visuelle",
+   "Data-viz : des graphiques qui délivrent un message"
+  ],
+  "labs": [
+   "slides: Lab 1 — Le chiffre qui grandit",
+   "steps: Lab 2 — Sommaire Zoom et graphique lié"
+  ]
+ },
+ {
+  "code": "P08",
+  "app": "ppt",
+  "num": "P08",
+  "level": 4,
+  "id": "p08",
+  "title": "Accessibilité, export, co-édition, Designer et Copilot",
+  "desc": "Livrer une présentation accessible à tous, la diffuser dans le bon format, la construire à plusieurs et accélérer avec l'IA.",
+  "lessons": [
+   "Accessibilité : les règles qui changent tout",
+   "Exporter et diffuser",
+   "Co-édition dans Microsoft 365",
+   "Designer et Copilot : l'IA comme assistant"
+  ],
+  "labs": [
+   "steps: Lab 1 — Deck accessible et prêt à diffuser",
+   "steps: Lab 2 — Co-écrire avec l'équipe et l'IA"
+  ]
+ }
+]
